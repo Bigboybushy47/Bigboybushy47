@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Security Game</title>
+<style>
+ #board {
+     border: 1px solid black;
+     background-color: gray;
+     height: 730px;
+     width: 1550px
+   }
+  </style>
+</head>
+<body>
+<input type="button" value="Play" onclick="startgame()';/>
+  <div id="board">
+  </div>
+  <script>
+  function startgame() {
+  }
+  </script
+</body>
+</html>
